@@ -7,3 +7,4 @@ newlabel.grid(column = 1,row = 3)
 newlabel.pack(anchor='center')
 
 window.mainloop()
+#sioisd´das
